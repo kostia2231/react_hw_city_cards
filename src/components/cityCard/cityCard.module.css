@@ -1,0 +1,21 @@
+img {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 14px;
+}
+
+li {
+  font-size: 14px;
+}
+
+ul {
+  margin: 0;
+}
